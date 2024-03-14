@@ -1,0 +1,16 @@
+git config --global user.name "kim chang in"
+git config --global user.email "alfkk112245@naver.com"
+git init
+git branch -m main
+git remote add origin https://github.com/ckddls1024/naver0314devops11.git
+git pull origin main
+ls
+<git add .
+git commit -m "first commit"
+git push origin main>
+
+
+
+
+
+https://github.com/zipsy327/naver0314devops11
