@@ -12,5 +12,13 @@ git push origin main>
 
 
 
-
+교수님 깃주소
 https://github.com/zipsy327/naver0314devops11
+
+
+
+한글프로그램
+https://drive.google.com/file/d/19VJPznSohlbQaheFpyvAIhk-M6tADe_G/view?usp=sharing
+
+오피스10
+https://drive.google.com/file/d/1zoJfZdRewCsyZAX_-axo2h-JrG3iTJoK/view?usp=sharing
